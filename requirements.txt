@@ -1,0 +1,5 @@
+praw
+pandas
+python-dotenv
+celery
+redis
