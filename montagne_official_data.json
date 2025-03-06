@@ -1,0 +1,1038 @@
+[
+    {
+        "name": "PINEAPPLE ROYALE",
+        "clone_of": "CREED AVENTUS",
+        "url": "/fragrance/pineappleroyale",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "PARFUM DE CERISE",
+        "clone_of": "TOM FORD LOST CHERRY",
+        "url": "/fragrance/parfum-de-cerise",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "EAU SANTAL",
+        "clone_of": "LE LABO SANTAL 33",
+        "url": "/fragrance/eau-santal",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "LA CIEL DE NUIT",
+        "clone_of": "DIOR SAUVAGE",
+        "url": "/fragrance/la-ciel-de-nuit",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "LE BONBON",
+        "clone_of": "MFK BACCARAT ROUGE 540",
+        "url": "/fragrance/le-bonbon-1",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "AMBRE MUSC",
+        "clone_of": "YSL TUXEDO",
+        "url": "/fragrance/ambremusc",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "L'EPICE DE MER",
+        "clone_of": "CREED VIKING",
+        "url": "/fragrance/lepice-de-mer",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "VANILLE FRAICHE",
+        "clone_of": "PARFUMS DE MARLY LAYTON",
+        "url": "/fragrance/vanille-fraiche",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "POMME POUR ELLE",
+        "clone_of": "CREED AVENTUS FOR HER",
+        "url": "/fragrance/pommepourelle",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "PINEAPPLE BONBON",
+        "clone_of": "BR 540 AND CREED AVENTUS",
+        "url": "/fragrance/pineapplebonbon",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "EAU DE MONTAGNE",
+        "clone_of": "CREED SILVER MOUNTAIN WATER",
+        "url": "/fragrance/eaudemontagne",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "MALAY AKLAN",
+        "clone_of": "CREED MILLESIME IMPERIAL",
+        "url": "/fragrance/malayaklan",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "IRISH VERBENA",
+        "clone_of": "CREED GREEN IRISH TWEED",
+        "url": "/fragrance/irishverbena",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "BUKO",
+        "clone_of": "CREED VIRGIN ISLAND WATER",
+        "url": "/fragrance/buko",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "MAISON DU SOIR",
+        "clone_of": "MAISON MARGIELA BY THE FIREPLACE",
+        "url": "/fragrance/maisondusoir",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "BROOKLYN JAZZ",
+        "clone_of": "MAISON MARGIELA JAZZ CLUB",
+        "url": "/fragrance/brooklynjazz",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "AZONTO",
+        "clone_of": "BYREDO BAL D'AFRIQUE",
+        "url": "/fragrance/azonto",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "MYSTIC OUD",
+        "clone_of": "INITIO OUD FOR GREATNESS",
+        "url": "/fragrance/mysticoud",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "CUBICLE FOR MEN",
+        "clone_of": "FRAGRANCE ONE OFFICE FOR MEN",
+        "url": "/fragrance/cubicleformen",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "ELYSIAN SOLEIL (LIMITED PRODUCTION, LIMIT 1 PER PERSON)",
+        "clone_of": "Unknown",
+        "url": "/fragrance/elysiansoleil",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "ARCTIC PALACE",
+        "clone_of": "MEMO WINTER PALACE",
+        "url": "/fragrance/arcticpalace",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "PINK ROSE",
+        "clone_of": "PARFUMS DE MARLY DELINA",
+        "url": "/fragrance/pinkrose",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "TOBACCO NOIR",
+        "clone_of": "PARFUMS DE MARLY HEROD",
+        "url": "/fragrance/tobacconoir",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "PINEAPPLE FRAIS",
+        "clone_of": "CREED AVENTUS COLOGNE",
+        "url": "/fragrance/pineapplefrais",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "EAU BERGAMOTE",
+        "clone_of": "LE LABO BERGAMOTE 22",
+        "url": "/fragrance/eaubergamote",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "PURE WHITE ROSE (MONTAGNE ORIGINAL)",
+        "clone_of": "Unknown",
+        "url": "/fragrance/pure-white-rose",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "HACIENDA",
+        "clone_of": "NISHANE HACIVAT",
+        "url": "/fragrance/h-a-c-i-e-n-d-a-very-limited-production",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "WILD LEATHER",
+        "clone_of": "MEMO AFRICAN LEATHER",
+        "url": "/fragrance/wild-leather",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "GUSTAVO",
+        "clone_of": "ORMONDE JAYNE MONTABACO",
+        "url": "/fragrance/gustavo",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "SICILIAN TOBACCO",
+        "clone_of": "XERJOFF NAXOS",
+        "url": "/fragrance/siciliantobacco",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "EAU ROSE",
+        "clone_of": "LE LABO ROSE 31",
+        "url": "/fragrance/eau-rose",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "MOI?",
+        "clone_of": "GLOSSIER YOU",
+        "url": "/fragrance/moi",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "ELYSIAN FRAICHE",
+        "clone_of": "ROJA ELYSIUM PARFUM COLOGNE",
+        "url": "/fragrance/elysian-fraiche",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "ELYSIAN COLOGNE",
+        "clone_of": "ROJA ELYSIUM COLOGNE",
+        "url": "/fragrance/elysiancologne",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "ELYSIAN INTENSE",
+        "clone_of": "ROJA ELYSIUM COLOGNE",
+        "url": "/fragrance/elysianintense",
+        "is_in_stock": true,
+        "price": "50"
+    },
+    {
+        "name": "PHANTOM NOIR",
+        "clone_of": "KILIAN BLACK PHANTOM",
+        "url": "/fragrance/phantomnoir",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "RICH BOIS",
+        "clone_of": "XERJOFF RICHWOOD",
+        "url": "/fragrance/richbois",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "PROMISE EXCLUSIF",
+        "clone_of": "FREDERIC MALLE PROMISE",
+        "url": "/fragrance/promise-exclusif",
+        "is_in_stock": true,
+        "price": "55"
+    },
+    {
+        "name": "PROMISE SPÉCIALE",
+        "clone_of": "FREDERIC MALLE PROMISE",
+        "url": "/fragrance/promisespeciale",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "SPIRIT OF PEACE",
+        "clone_of": "BOND NO.9 ESSENCE OF PEACE",
+        "url": "/fragrance/spirit-of-peace",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "ERBA ITALIANA",
+        "clone_of": "XERJOFF ERBA PURA",
+        "url": "/fragrance/erba-italiana",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "CANNOLI",
+        "clone_of": "XERJOFF ITALICA",
+        "url": "/fragrance/cannoli",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "ALEXANDER II",
+        "clone_of": "XERJOFF ALEXANDRIA II",
+        "url": "/fragrance/alexander2",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "OUD BOIS",
+        "clone_of": "TOM FORD OUD WOOD",
+        "url": "/fragrance/oud-bois",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "VANILLE ABSOLUTE",
+        "clone_of": "NISHANE ANI",
+        "url": "/fragrance/vanilleabsolute",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "COGNAC D'ANGE",
+        "clone_of": "KILIAN ANGEL'S SHARE",
+        "url": "/fragrance/cognacangel",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "APPLE COGNAC INSIRED BY KILIAN APPLE BRANDY",
+        "clone_of": "Unknown",
+        "url": "/fragrance/applecognac",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "NOIR OUD",
+        "clone_of": "FRAGRANCE DU BOIS OUD NOIR INTENSE",
+        "url": "/fragrance/noiroud",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "ORANGE OUD",
+        "clone_of": "FRAGRANCE DU BOIS ORANGE INTENSE",
+        "url": "/fragrance/orange-oud",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "OUD VERDE",
+        "clone_of": "FRAGRANCE DU BOIS OUD VERT INTENSE",
+        "url": "/fragrance/oudverde",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "RICH SANTAL",
+        "clone_of": "FRAGRANCE DU BOIS SANTAL COMPLET",
+        "url": "/fragrance/richsantal",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "VIOLET OUD",
+        "clone_of": "FRAGRANCE DU BOIS VIOLET INTENSE",
+        "url": "/fragrance/violetoud",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "BLEU OUD",
+        "clone_of": "FRAGRANCE DU BOIS BLEU INTENSE",
+        "url": "/fragrance/bleuoud",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "CASHMERE FLOWER",
+        "clone_of": "FRAGRANCE DU BOIS PETALES DE CASHMERE",
+        "url": "/fragrance/cashmere-flower",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "PINEAPPLE INTENSE",
+        "clone_of": "CREED AVENTUS",
+        "url": "/fragrance/pineapple-intense",
+        "is_in_stock": true,
+        "price": "55"
+    },
+    {
+        "name": "TABAC HAVANE (MONTAGNE ORIGINAL)",
+        "clone_of": "Unknown",
+        "url": "/fragrance/tabac-havane",
+        "is_in_stock": false,
+        "price": "60"
+    },
+    {
+        "name": "ENIGMATIC SPÉCIALE",
+        "clone_of": "ROJA ENIGMA PARFUM",
+        "url": "/fragrance/enigmatic-spciale",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "ENIGMATIC EXCLUSIF",
+        "clone_of": "ROJA ENIGMA PARFUM",
+        "url": "/fragrance/enigmatic-exclusif",
+        "is_in_stock": false,
+        "price": "60"
+    },
+    {
+        "name": "OUD AMBRE ABSOLU",
+        "clone_of": "ROJA AMBER AOUD ABSOLUE PRECIEUX",
+        "url": "/fragrance/oud-ambre-absolu",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "SWEET OUD",
+        "clone_of": "ROJA SWEETIE AOUD",
+        "url": "/fragrance/sweet-oud",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "SORRENTO",
+        "clone_of": "TIZIANA TERENZI CUBIA",
+        "url": "/fragrance/sorrento",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "LA VELA",
+        "clone_of": "TIZIANA TERENZI ORZA",
+        "url": "/fragrance/la-vela",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "POGI",
+        "clone_of": "TIZIANA TERENZI POGGIA",
+        "url": "/fragrance/pogi",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "FEU ROUGE",
+        "clone_of": "BDK PARFUMS ROUGE SMOKING",
+        "url": "/fragrance/feu-rouge",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "NOVILLO LEATHER",
+        "clone_of": "BDK PARFUMS CREME DE CUIR",
+        "url": "/fragrance/novillo-leather",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "LE BONBON INTENSE",
+        "clone_of": "MFK BACCARAT ROUGE 540",
+        "url": "/fragrance/le-bonbon-intense",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "TOBACCO NOIR INTENSE",
+        "clone_of": "PARFUMS DE MARLY HEROD",
+        "url": "/fragrance/tobacco-noir-intense",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "MANHATTAN BOOZE",
+        "clone_of": "ROJA MANHATTAN",
+        "url": "/fragrance/manhattan-booze",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "LONDON",
+        "clone_of": "WIDIAN LONDON",
+        "url": "/fragrance/london",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "SMOKED EBONY",
+        "clone_of": "TOM FORD EBENE FUME",
+        "url": "/fragrance/smoked-ebony",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "ANOTHER 14",
+        "clone_of": "LE LABO ANOTHER 13",
+        "url": "/fragrance/another-14",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "AOUD BOUQUET",
+        "clone_of": "LANCOME OUD BOUQUET",
+        "url": "/fragrance/aoud-bouquet",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "CITRUS ROSE",
+        "clone_of": "MFK L'HOMME A LA ROSE",
+        "url": "/fragrance/citrus-rose",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "CITRUS WATER",
+        "clone_of": "XERJOFF MEFISTO",
+        "url": "/fragrance/citrus-water",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "TYGR",
+        "clone_of": "BULGARI TYGAR",
+        "url": "/fragrance/tygr",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "GALILEAN",
+        "clone_of": "MARC ANTOINE BARROIS GANYMEDE EDP",
+        "url": "/fragrance/galilean",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "TORINO 2021",
+        "clone_of": "XERJOFF TORINO21",
+        "url": "/fragrance/torino-2021",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "AQUA FORTE",
+        "clone_of": "MFK AQUA VITAE FORTE",
+        "url": "/fragrance/aqua-forte",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "TABAC VANILLE",
+        "clone_of": "TOM FORD TOBACCO VANILLE",
+        "url": "/fragrance/tabac-vanille",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "LYRA",
+        "clone_of": "XERJOFF CASAMORATI LIRA",
+        "url": "/fragrance/lyra",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "1800",
+        "clone_of": "XERJOFF CASAMORATI 1888",
+        "url": "/fragrance/1800",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "STALLION EXCLUSIF",
+        "clone_of": "PARFUMS DE MARLY PEGASUS EXCLUSIF",
+        "url": "/fragrance/stallion-exclusif",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "CIEL ELIXIR",
+        "clone_of": "DIOR SAUVAGE ELIXIR",
+        "url": "/fragrance/ciel-elixir",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "JUBILEE",
+        "clone_of": "AMOUAGE JUBILATION XXV",
+        "url": "/fragrance/jubilee",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "APPLE COGNAC ON THE ROCKS",
+        "clone_of": "KILIAN APPLE BRANDY ON THE ROCKS",
+        "url": "/fragrance/apple-cognac-on-the-rocks",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "INTERMISSION",
+        "clone_of": "AMOUAGE INTERLUDE MEN",
+        "url": "/fragrance/intermission",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "PINEAPPLE MUSK",
+        "clone_of": "CREED AVENTUS",
+        "url": "/fragrance/pineapple-musk",
+        "is_in_stock": true,
+        "price": "60"
+    },
+    {
+        "name": "EAU GAIAC",
+        "clone_of": "LE LABO GAIAC 10 TOKYO CITY",
+        "url": "/fragrance/eau-gaiac",
+        "is_in_stock": true,
+        "price": "50"
+    },
+    {
+        "name": "EAU MATCHA",
+        "clone_of": "LE LABO THE MATCHA 26",
+        "url": "/fragrance/eau-matcha",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "MOSS BEACHES INSPIRED TOM FORD MOSS BRECHES",
+        "clone_of": "Unknown",
+        "url": "/fragrance/moss-beaches",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "SOLEIL BRULE ISNPIRED BY TOM FORD SOLEIL BRULANT",
+        "clone_of": "Unknown",
+        "url": "/fragrance/soleil-brule",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "HOMAGE EXTRAIT",
+        "clone_of": "AMOUAGE HOMAGE 2008",
+        "url": "/fragrance/homage-extrait",
+        "is_in_stock": false,
+        "price": "50"
+    },
+    {
+        "name": "PINK ROSE EXCLUSIF",
+        "clone_of": "PARFUMS DE MARLY DELINA EXCLUSIF",
+        "url": "/fragrance/pink-rose-exclusif",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "AFTERNOON DIVE",
+        "clone_of": "LOUIS VUITTON AFTERNOON SWIM",
+        "url": "/fragrance/afternoon-dive",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "BOBCAT",
+        "clone_of": "YSL BABYCAT",
+        "url": "/fragrance/bobcat",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "STH EXTREME",
+        "clone_of": "KILIAN STRAIGHT TO HEAVEN EXTREME",
+        "url": "/fragrance/sth-extreme",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "IMAGE",
+        "clone_of": "AMOUAGE REFLECTION MAN",
+        "url": "/fragrance/image",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "DIABLO",
+        "clone_of": "NARCOTICA DULCE DIABLO",
+        "url": "/fragrance/diablo",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "EAU VANILLE",
+        "clone_of": "LE LABO 44 VANILLE PARIS CITY",
+        "url": "/fragrance/eau-vanille",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "CARNAL GRAY EXTRAIT",
+        "clone_of": "BDK PARFUMS GRIS CHARNEL EXTRAIT",
+        "url": "/fragrance/carnal-gray-extrait",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "BUKO INTENSE",
+        "clone_of": "CREED VIRGIN ISLAND WATER",
+        "url": "/fragrance/buko-intense",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "GALILEAN 683",
+        "clone_of": "MARC ANTOINE BARROIS B683 EDP",
+        "url": "/fragrance/galilean-683",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "ARABIAN ORIENT (MONTAGNE ORIGINAL)",
+        "clone_of": "Unknown",
+        "url": "/fragrance/arabian-orient",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "TYGR COLOGNE",
+        "clone_of": "BULGARI LE GEMME TYGAR",
+        "url": "/fragrance/tygr-cologne",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "TORINO 2022",
+        "clone_of": "XERJOFF TORINO22",
+        "url": "/fragrance/torino-2022",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "GEORGIA PEACH",
+        "clone_of": "TOM FORD BITTER PEACH",
+        "url": "/fragrance/georgia-peach",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "IMAGINARY",
+        "clone_of": "LOUIS VUITTON IMAGINATION",
+        "url": "/fragrance/imaginary-inspired-by-louis-vuitton-imagination",
+        "is_in_stock": true,
+        "price": "50"
+    },
+    {
+        "name": "IMMENSITY",
+        "clone_of": "l'IMMENSITE BY LOUIS VUITTON",
+        "url": "/fragrance/immensity-inspired-by-limmensite-by-louis-vuitton",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "PERCEVAL",
+        "clone_of": "PARFUMS DE MARLY PERCIVAL",
+        "url": "/fragrance/perceval-inspired-by-parfums-de-marly-percival",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "MARINE ZEST",
+        "clone_of": "FRAGRANCE DU BOIS ZEST MARIN",
+        "url": "/fragrance/marine-zest-inspired-by-fragrance-du-bois-zest-marin",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "OUD JAUNE",
+        "clone_of": "FRAGRANCE DU BOIS OUD JAUNE INTENSE",
+        "url": "/fragrance/oud-jaune-inspired-by-fragrance-du-bois-oud-jaune-intense",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "IMAGE 45",
+        "clone_of": "AMOUAGE REFLECTION 45 MAN",
+        "url": "/fragrance/image-45-inspired-by-amouage-reflection-45",
+        "is_in_stock": false,
+        "price": "50"
+    },
+    {
+        "name": "EAU NOIR",
+        "clone_of": "LE LABO THE NOIR 29",
+        "url": "/fragrance/eau-noir-inspired-by-le-labo-the-noir-29",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "THE 212",
+        "clone_of": "MFK 724",
+        "url": "/fragrance/the-212-inspired-by-mfk-724",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "GINGHAM GREEN",
+        "clone_of": "PARFUMS DE MARLY GREENLEY",
+        "url": "/fragrance/gingham-green-inspired-by-pdm-greenley",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "OMBRE NOIR",
+        "clone_of": "LOUIS VUITTON OMBRE NOMADE",
+        "url": "/fragrance/ombre-noir",
+        "is_in_stock": true,
+        "price": "60"
+    },
+    {
+        "name": "PINEAPPLE ABSOLU",
+        "clone_of": "CREED ABSOLU AVENTUS",
+        "url": "/fragrance/pineapple-absolu-inspired-by-creed-absolu-aventus",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "CASHMERE ROSE",
+        "clone_of": "CREED CARMINA",
+        "url": "/fragrance/cashmere-rose-inspired-by-creed-carmina",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "JAPANESE PLUM",
+        "clone_of": "TOM FORD PLUM JAPONAIS",
+        "url": "/fragrance/japanese-plum-inspired-by-tom-ford-plum-japonais",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "METEORITE",
+        "clone_of": "LOUIS VUITTON METEORE",
+        "url": "/fragrance/meteorite-inspired-by-louis-vuitton-meteore",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "AMBRE VANILLE",
+        "clone_of": "PARFUMS DE MARLY ALTHAÏR",
+        "url": "/fragrance/ambre-vanille-inspired-by-parfums-de-marly-althar",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "CHILLY PACIFIC",
+        "clone_of": "LOUIS VUITTON PACIFIC CHILL",
+        "url": "/fragrance/ambre-vanille-inspired-by-parfums-de-marly-althar-1",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "GOD OF FIERY",
+        "clone_of": "SHL 777 GOD OF FIRE",
+        "url": "/fragrance/god-of-fiery-inspired-by-god-of-fire-by-shl-777",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "STRAWBERRY MILK",
+        "clone_of": "MELANIE MARTINEZ CRY BABY PERFUME MILK",
+        "url": "/fragrance/strawberry-milk-inspired-by-melanie-martinez-cry-baby-perfume-milk",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "PALISADE",
+        "clone_of": "MIND GAMES BLOCKADE",
+        "url": "/fragrance/palisade-inspired-by-mind-games-blockade",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "CACTI GARDEN",
+        "clone_of": "LOUIS VUITTON CACTUS GARDEN",
+        "url": "/fragrance/cacti-garden-inspired-by-louis-vuitton-cactus-garden",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "SUMMER SONG",
+        "clone_of": "LOUIS VUITTON SUN SONG",
+        "url": "/fragrance/summer-song-inspired-by-louis-vuitton-sun-song",
+        "is_in_stock": false,
+        "price": "40"
+    },
+    {
+        "name": "CHILLY PINEAPPLE",
+        "clone_of": "PACIFIC CHILL AND AVENTUS COLOGNE",
+        "url": "/fragrance/chilly-pineapple",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "BLEU TALISMAN",
+        "clone_of": "EX NIHILO BLUE TALISMAN",
+        "url": "/fragrance/u5r9io7pjobrurk43byiz5eojzswz0",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "HARMONY",
+        "clone_of": "LOUIS VUITTON SYMPHONY",
+        "url": "/fragrance/harmony-inspired-by-louis-vuitton-symphony",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "IMAGINARY PINEAPPLE",
+        "clone_of": "IMAGINATION AND AVENTUS COLOGNE",
+        "url": "/fragrance/imaginary-pineapple-inspired-by-imagination-and-aventus-cologne",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "GENTLE SILVER",
+        "clone_of": "MFK GENTLE FLUIDITY SILVER",
+        "url": "/fragrance/gentle-silver-inspired-by-mfk-gentle-fluidity-silver",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "PACIFIC MOSS",
+        "clone_of": "GOLDFIELD & BANKS PACIFIC ROCK MOSS",
+        "url": "/fragrance/pacific-moss-inspired-by-goldfield-banks-pacific-rock-moss",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "MONKEY SPECIAL",
+        "clone_of": "XERJOFF TONY IOMMI MONKEY SPECIAL",
+        "url": "/fragrance/monkey-special-inspired-by-xerjoff-tony-iommi-monkey-special",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "SINFONIETTA",
+        "clone_of": "XERJOFF SYMPHONIUM",
+        "url": "/fragrance/sinfonietta-inspired-by-xerjoff-symphonium",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "EAU MUSC",
+        "clone_of": "LE LABO MUSC 25 LOS ANGELES CITY EXCLUSIVE",
+        "url": "/fragrance/otws15i03wvm2nv0n3jlhkrhdp9jdq",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "ARABIAN SAND",
+        "clone_of": "GISSAH SANAD",
+        "url": "/fragrance/arabian-sand-inspired-by-gissah-sanad",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "HUDSON COUNTY",
+        "clone_of": "GISSAH HUDSON VALLEY",
+        "url": "/fragrance/hudson-county-inspired-by-gissah-hudson-valley",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "BOLD EFFECT",
+        "clone_of": "INITIO SIDE EFFECT",
+        "url": "/fragrance/bold-effect-inspired-by-initio-side-effect",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "RUE LAFAYETTE",
+        "clone_of": "BN9 LAFAYETTE STREET",
+        "url": "/fragrance/rue-lafayette-inspired-by-bn9-lafayette-street",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "AOUD MARACUJA",
+        "clone_of": "MAISON CRIVELLI OUD MARACUJÁ",
+        "url": "/fragrance/aoud-maracuja-inspired-by-maison-crivelli-oud-maracuj",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "PINK ROSE FROZEN",
+        "clone_of": "PARFUMS DE MARLY DELINA LA ROSÉE",
+        "url": "/fragrance/pink-rose-frozen-inspired-by-parfums-de-marly-delina-la-rose",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "NOBLE OUD",
+        "clone_of": "PARFUMS DE MARLY HALTANE",
+        "url": "/fragrance/noble-oud-inspired-by-parfums-de-marly-haltane",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "WAJAN",
+        "clone_of": "PARFUMS DE MARLY OAJAN",
+        "url": "/fragrance/wajan-inspired-by-parfums-de-marly-oajan",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "LUVRS",
+        "clone_of": "LOUIS VUITTON LOVERS",
+        "url": "/fragrance/luvrs-inspired-by-louis-vuitton-lovers",
+        "is_in_stock": false,
+        "price": "45"
+    },
+    {
+        "name": "FIG TREE",
+        "clone_of": "DIPTYQUE PHILOSYKOS",
+        "url": "/fragrance/fig-tree-inspired-by-diptyque-philosykos",
+        "is_in_stock": true,
+        "price": "40"
+    },
+    {
+        "name": "CARLYLE",
+        "clone_of": "PARFUMS DE MARLY CARLISLE",
+        "url": "/fragrance/carlyle-inspired-by-parfums-de-marly-carlisle",
+        "is_in_stock": true,
+        "price": "45"
+    },
+    {
+        "name": "SEKUSHY",
+        "clone_of": "SEKUSHI NO. 7 LENGLING",
+        "url": "/fragrance/sekushy-inspired-by-sekushi-no-7-lengling",
+        "is_in_stock": true,
+        "price": "40"
+    }
+]

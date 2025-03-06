@@ -1,0 +1,134 @@
+2025-03-04 18:51:46,136 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-04 18:53:06,863 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 18:53:14,970 - ERROR - Unable to parse API response: Here is the extracted perfume information formatted as a list of dictionaries:
+
+```json
+[
+    {
+        "Perfume_name": "Wajan",
+        "bottle_quantity": "50ml",
+        "bottle_cost": 35,
+        "currency": "USD"
+    }
+]
+```
+2025-03-04 18:53:14,970 - INFO - Skipping post: [WTS] Wajan $35 (No perfumes detected)
+2025-03-04 19:00:09,093 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-04 19:00:57,913 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 19:01:07,152 - ERROR - Unable to parse API response: Here is the extracted perfume information formatted as a list of dictionaries:
+
+python
+[
+    {
+        "Perfume_name": "Wajan",
+        "bottle_quantity": "50ml",  # Default value as not specified
+        "bottle_cost": 35,
+        "currency": "USD"  # Default value as not specified
+    }
+]
+2025-03-04 19:01:07,152 - INFO - Skipping post: [WTS] Wajan $35 (No perfumes detected)
+2025-03-04 19:06:52,493 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-04 19:07:41,174 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 19:07:49,681 - ERROR - Unable to parse API response: Here is the extracted perfume information formatted as a list of dictionaries:
+
+
+[
+    {
+        "Perfume_name": "Wajan",
+        "bottle_quantity": "50ml",
+        "bottle_cost": 35,
+        "currency": "USD"
+    }
+]
+2025-03-04 19:07:49,681 - INFO - Skipping post: [WTS] Wajan $35 (No perfumes detected)
+2025-03-04 21:04:09,556 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-04 21:04:42,975 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 21:04:52,190 - ERROR - Error processing post: 'DataFrame' object has no attribute 'append'
+2025-03-04 21:09:08,213 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-04 21:09:56,746 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 21:10:04,275 - ERROR - Error processing post: 'DataFrame' object has no attribute 'append'
+2025-03-04 21:13:46,004 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-04 21:14:18,739 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 21:14:28,180 - INFO - New post added: [WTS] Wajan $35
+2025-03-04 23:57:25,193 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-04 23:57:58,202 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 23:58:16,023 - INFO - New post added: [WTS] Montagne Ambre Musc | Meteorite | London | (bottle)
+2025-03-04 23:58:16,026 - INFO - New post added: [WTS] Montagne Ambre Musc | Meteorite | London | (bottle)
+2025-03-04 23:58:16,027 - INFO - New post added: [WTS] Montagne Ambre Musc | Meteorite | London | (bottle)
+2025-03-05 00:09:34,294 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 00:09:41,154 - INFO - New post added: (WTS) LUVRS
+2025-03-05 00:09:48,916 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 00:09:56,020 - INFO - New post added: [WTS/WTT] Palisade
+2025-03-05 00:10:28,701 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 00:10:39,699 - INFO - New post added: [WTS] Wajan $25
+2025-03-05 00:10:39,701 - INFO - New post added: [WTS] Wajan $25
+2025-03-05 16:59:25,328 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-05 17:00:46,716 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 17:00:56,064 - ERROR - Error processing post: 'NoneType' object has no attribute 'strip'
+2025-03-05 17:07:04,597 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-05 17:07:37,344 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 17:07:50,800 - INFO - Skipping perfume without valid bottle_cost in post: WTS Pineapple Frais
+2025-03-05 17:08:38,736 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 17:08:50,628 - INFO - New perfume added from post: WTS Pineapple Frais
+2025-03-05 19:22:52,738 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-05 19:22:52,745 - INFO - Deleted posts marked as 'Sold' from the CSV file.
+2025-03-05 19:22:52,763 - INFO - Updated 'PerfumeLowestPrices.csv' with 5 lowest prices per perfume.
+2025-03-05 19:26:05,503 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 19:26:14,078 - ERROR - Error processing post: could not convert string to float: '$45.00'
+2025-03-05 19:27:52,773 - INFO - Deleted posts marked as 'Sold' from the CSV file.
+2025-03-05 19:27:52,789 - ERROR - Error updating 'PerfumeLowestPrices.csv': [Errno 13] Permission denied: 'PerfumeLowestPrices.csv'
+2025-03-05 19:30:22,322 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-05 19:31:10,999 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 19:31:19,570 - INFO - New perfume added from post: [WTS] Bleu Talisman
+2025-03-05 19:32:40,742 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-05 19:33:01,397 - ERROR - Unable to parse API response: Based on the provided Reddit post title "[WTS] Bleu Talisman," here is the extracted perfume detail formatted as a list of dictionaries:
+
+```json
+[
+    {"Perfume_name": "Bleu Talisman", "bottle_quantity": "50ml", "bottle_cost": null, "currency": "USD"}
+]
+```
+
+Note: The `bottle_cost` is set to `null` because it was not specified in the post. If you have additional details, such as the cost or bottle size, please provide them for a more accurate entry.
+2025-03-05 19:33:01,397 - INFO - Skipping post: [WTS] Bleu Talisman (No perfumes detected)
+2025-03-06 00:21:03,150 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-06 00:21:03,158 - INFO - Deleted posts marked as 'Sold' from the CSV file.
+2025-03-06 00:21:03,179 - ERROR - Error updating 'PerfumeLowestPrices.csv': [Errno 13] Permission denied: 'PerfumeLowestPrices.csv'
+2025-03-06 00:24:40,336 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-06 00:25:00,793 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-06 00:25:00,798 - INFO - Deleted posts marked as 'Sold' from the CSV file.
+2025-03-06 00:25:00,815 - INFO - Updated 'PerfumeLowestPrices.csv' with 5 lowest prices per perfume.
+2025-03-06 00:30:00,832 - INFO - Deleted posts marked as 'Sold' from the CSV file.
+2025-03-06 00:30:00,875 - INFO - Updated 'PerfumeLowestPrices.csv' with 5 lowest prices per perfume.
+2025-03-06 00:35:00,880 - INFO - Deleted posts marked as 'Sold' from the CSV file.
+2025-03-06 00:35:00,902 - INFO - Updated 'PerfumeLowestPrices.csv' with 5 lowest prices per perfume.
+2025-03-06 00:36:00,974 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-06 00:37:38,591 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 00:37:48,675 - INFO - New post added: WTS Brooklyn Jazz, Pineapple Musk + 6 decants
+2025-03-06 00:37:48,676 - INFO - New post added: WTS Brooklyn Jazz, Pineapple Musk + 6 decants
+2025-03-06 00:37:48,678 - INFO - New post added: WTS Brooklyn Jazz, Pineapple Musk + 6 decants
+2025-03-06 00:37:48,706 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
+2025-03-06 00:39:25,217 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 00:39:33,166 - INFO - New post added: WTS Orange Oud
+2025-03-06 00:39:33,181 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
+2025-03-06 00:40:36,489 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 00:40:45,614 - INFO - New post added: WTS Orange Oud
+2025-03-06 00:40:45,638 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
+2025-03-06 00:41:01,918 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 00:41:13,455 - INFO - New post added: WTS
+2025-03-06 00:41:13,474 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
+2025-03-06 00:42:01,258 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 00:42:10,240 - INFO - New post added: WTS Orange Oud
+2025-03-06 00:42:10,260 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
+2025-03-06 00:43:14,373 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 00:43:25,826 - INFO - New post added: WTS Olange Oud
+2025-03-06 00:43:25,843 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
+2025-03-06 00:58:48,314 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-06 01:05:32,763 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-06 01:06:21,355 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 01:06:34,905 - INFO - New post added: Orange Oud WTS
+2025-03-06 01:06:34,925 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
+2025-03-06 01:09:46,269 - INFO - Listening for new posts in r/tester_jethya containing 'wts'...
+2025-03-06 01:11:07,912 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-06 01:11:16,426 - INFO - New post added: perfum de ceres WTS
+2025-03-06 01:11:16,445 - INFO - Updated PerfumeLowestPrices.csv with 5 lowest prices per perfume (excluding 'Sold').
