@@ -1,4 +1,11 @@
 flask
-praw
 pandas
+json5
+praw
+logging
+schedule
+pytz
+thefuzz
+openai
+prawcore
 python-dotenv
