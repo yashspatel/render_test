@@ -11,7 +11,7 @@ import threading
 from thefuzz import process
 from openai import OpenAI
 import prawcore
-from flask import Flask
+from flask import Flask, render_template
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -188,6 +188,14 @@ cleanup_thread.start()
 
 # Start the main process for listening to Reddit posts
 listen_for_new_posts()
+
+@app.route("/lowest-prices")
+def show_lowest_prices():
+    if os.path.exists(LOWEST_PRICES_FILE):
+        df = pd.read_csv(LOWEST_PRICES_FILE)
+        return render_template("lowest_prices.html", tables=[df.to_html(classes="table table-striped", index=False)], titles=df.columns.values)
+    else:
+        return "No data available", 404
 
 # Run Flask app
 if __name__ == "__main__":
