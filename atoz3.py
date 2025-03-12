@@ -124,7 +124,7 @@ def listen_for_new_posts():
         except Exception as e:
             logging.error(f"Main loop error: {e}")
             time.sleep(10)  # Prevents crash loops
-        pass
+        
 
 # Function to update lowest prices
 def update_lowest_prices():
