@@ -182,6 +182,18 @@ def parse_perfume_post(post_text: str) -> list:
         logging.error(f"Unable to parse API response: {result}")
         return []
 
+def count_numbers():
+    count = 1
+    while True:
+        print(count)
+        count += 1
+        time.sleep(1)  # Adjust the sleep time as needed to control the speed
+
+# Create and start the counting thread
+count_thread = threading.Thread(target=count_numbers)
+count_thread.daemon = True  # This makes the thread exit when the main program exits
+count_thread.start()
+
 # Start the cleanup scheduler in a separate thread
 cleanup_thread = threading.Thread(target=schedule_cleanup, daemon=True)
 cleanup_thread.start()
