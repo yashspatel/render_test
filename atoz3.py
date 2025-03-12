@@ -186,8 +186,9 @@ def parse_perfume_post(post_text: str) -> list:
 cleanup_thread = threading.Thread(target=schedule_cleanup, daemon=True)
 cleanup_thread.start()
 
-# Start the main process for listening to Reddit posts
-listen_for_new_posts()
+# Start listening for new posts in a separate thread
+reddit_thread = threading.Thread(target=listen_for_new_posts, daemon=True)
+reddit_thread.start()
 
 @app.route("/lowest-prices")
 def show_lowest_prices():
@@ -199,4 +200,5 @@ def show_lowest_prices():
 
 # Run Flask app
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Render dynamically assigns a port
+    app.run(host="0.0.0.0", port=port, debug=True)
